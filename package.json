@@ -1,6 +1,6 @@
 {
   "name": "binary-tree-adt",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Binary Tree ADT for browser and nodejs",
   "main": "dist/binary-tree-adt.js",
   "scripts": {
