@@ -23,13 +23,13 @@ $ bower install --save binary-tree-adt
 
 ```js
 var BinaryTree = require('binary-tree-adt');
-var binary-tree = new BinaryTree();
+var binaryTree = new BinaryTree();
 
 ```
 ```js
 <script type="text/javascript" src="https://raw.githubusercontent.com/pasangsherpa/binary-tree-adt/master/dist/binary-tree-adt.min.js"></script>
 <script type="text/javascript"> 
-  var binary-tree = new BinaryTree();
+  var binaryTree = new BinaryTree();
 
 </script>
 ```
