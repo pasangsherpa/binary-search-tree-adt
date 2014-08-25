@@ -4,7 +4,7 @@
   "description": "Binary Search Tree ADT for browser and nodejs",
   "main": "dist/binary-search-tree-adt.js",
   "scripts": {
-    "test": "node test/test.js"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -28,6 +28,7 @@
     "grunt-contrib-concat": "^0.4.0",
     "grunt-contrib-jshint": "^0.10.0",
     "grunt-contrib-uglify": "^0.4.0",
-    "load-grunt-tasks": "^0.4.0"
+    "load-grunt-tasks": "^0.4.0",
+    "mocha": "*"
   }
 }
