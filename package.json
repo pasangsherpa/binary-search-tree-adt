@@ -1,17 +1,18 @@
 {
-  "name": "binary-tree-adt",
+  "name": "binary-search-tree-adt",
   "version": "0.0.0",
-  "description": "Binary Tree ADT for browser and nodejs",
-  "main": "dist/binary-tree-adt.js",
+  "description": "Binary Search Tree ADT for browser and nodejs",
+  "main": "dist/binary-search-tree-adt.js",
   "scripts": {
     "test": "node test/test.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pasangsherpa/binary-tree-adt.git"
+    "url": "https://github.com/pasangsherpa/binary-search-tree-adt.git"
   },
   "keywords": [
     "binarytree",
+    "binarysearchtree",
     "adt",
     "datatype",
     "abstractdatatype"
@@ -19,9 +20,9 @@
   "author": "Pasang Sherpa <pgyalzen@gmail.com> (https://github.com/pasangsherpa)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pasangsherpa/binary-tree-adt/issues"
+    "url": "https://github.com/pasangsherpa/binary-search-tree-adt/issues"
   },
-  "homepage": "https://github.com/pasangsherpa/binary-tree-adt",
+  "homepage": "https://github.com/pasangsherpa/binary-search-tree-adt",
   "devDependencies": {
     "grunt": "^0.4.1",
     "grunt-contrib-concat": "^0.4.0",

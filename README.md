@@ -63,7 +63,7 @@ Type: `object`
 
 the element to be removed from the tree.
 
-#### .removeAllOccurence(element) `No such element" error` 
+#### .removeAllOccurrence(element) `No such element" error` 
 
 Remove all occurrences of the element from the tree and return the element.
 
@@ -80,6 +80,24 @@ Remove the minimum element in the tree and return the element.
 #### .removeMax() `throws "Tree is empty" error` 
 
 Remove the maximum element in the tree and return the element.
+
+#### .getRoot()
+
+Returns the root of the tree.
+
+Type: `object`
+
+the root of the tree
+
+#### .find(element) `throws "No such element" error` 
+
+Find an element from the tree and return the element.
+
+##### element
+
+Type: `object`
+
+the specified element.
 
 #### .findMin() `throws "Tree is empty" error` 
 
