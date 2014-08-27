@@ -27,6 +27,6 @@
     "test",
     "tests",
     "src",
-    "gulpfile.js"
+    "Gruntfile.js"
   ]
 }
