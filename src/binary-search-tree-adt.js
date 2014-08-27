@@ -87,12 +87,22 @@
 			if (isEmpty()) {
 				throw new Error("removeMin(): Tree is empty.");
 			}
+			var current = root;
+			while(current.left !== null) {
+				current = current.left;
+			}
+			return current.element;
 		}
 
 		function findMax() {
 			if (isEmpty()) {
 				throw new Error("removeMin(): Tree is empty.");
 			}
+			var current = root;
+			while(current.right !== null) {
+				current = current.right;
+			}
+			return current.element;
 		}
 
 		function isEmpty() {
