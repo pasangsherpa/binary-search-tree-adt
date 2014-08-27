@@ -1,6 +1,6 @@
 {
   "name": "binary-search-tree-adt",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Binary Search Tree ADT for browser and nodejs",
   "main": "dist/binary-search-tree-adt.js",
   "scripts": {

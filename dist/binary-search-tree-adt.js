@@ -1,3 +1,10 @@
+/*!
+* binary-search-tree-adt
+* v0.0.1 - 2014-08-27
+* https://github.com/pasangsherpa/binary-search-tree-adt
+* (c) Pasang Sherpa <pgyalzen@gmail.com> (https://github.com/pasangsherpa)
+* MIT License
+*/
 (function() {
 	'use strict';
 	var BinarySearchTree = function() {
